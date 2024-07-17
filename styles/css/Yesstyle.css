@@ -27,11 +27,11 @@ body {
     color: white;
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 .text {
-    font-family: 'Nunito';
+    font-family: 'arial';
     font-size: 25px;
     font-weight: bold;
     color: white;
